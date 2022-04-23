@@ -33,8 +33,8 @@
         <action
                 id="Structure.CopySection"
                 class="ua.in.hft.structureimproved.CopyAction"
-                text="Copy section"
-                description="Copy Section"
+                text="Copy Section"
+                description="Copy section"
                 icon="AllIcons.Actions.Copy">
             <add-to-group group-id="StructureViewPopupMenu"/>
             <keyboard-shortcut first-keystroke="alt c" keymap="$default"/>
@@ -42,8 +42,8 @@
         <action
                 id="Structure.CutSection"
                 class="ua.in.hft.structureimproved.CutAction"
-                text="Cut section"
-                description="Cut Section"
+                text="Cut Section"
+                description="Cut section"
                 icon="AllIcons.Actions.MenuCut">
             <add-to-group group-id="StructureViewPopupMenu"/>
             <keyboard-shortcut first-keystroke="alt x" keymap="$default"/>
@@ -52,7 +52,7 @@
                 id="Structure.PasteBefore"
                 class="ua.in.hft.structureimproved.PasteBeforeAction"
                 text="Paste Before"
-                description="Paste Before"
+                description="Paste before"
                 icon="AllIcons.Chooser.Top">
             <add-to-group group-id="StructureViewPopupMenu"/>
             <keyboard-shortcut first-keystroke="alt b" keymap="$default"/>
@@ -61,7 +61,7 @@
                 id="Structure.PasteAfter"
                 class="ua.in.hft.structureimproved.PasteAfterAction"
                 text="Paste After"
-                description="Paste After"
+                description="Paste after"
                 icon="AllIcons.Chooser.Bottom">
             <add-to-group group-id="StructureViewPopupMenu"/>
             <keyboard-shortcut first-keystroke="alt v" keymap="$default"/>
